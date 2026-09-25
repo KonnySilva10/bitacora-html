@@ -16,10 +16,10 @@ Para mantener el orden y separar lo profesional de lo personal, usaremos los sig
 * **Gestión de Tareas y Código:** Estrictamente a través de los *Issues* y *Pull Requests* de GitHub. (No se revisa código por WhatsApp).
 
 ## 3. Horarios y Sincronización
-* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Lunes, viernes y sabado] a las [12:30 pm o 8:00 pm] de forma [Presencial o Virtual].
+* **Reuniones de Sincronización (Daily Stand-up):** Nos reuniremos los días [Lunes, viernes y sabado] a las [12:30 pm o 6:00 pm] de forma [Presencial o Virtual].
 * **Tiempo máximo de respuesta:** Nos comprometemos a responder mensajes del equipo en un máximo de [3 horas] durante el horario hábil.
 
-## 4. Reglas de Desarrollo.
+## 4. Reglas de Desarrollo de bitacora-html
 * **Prohibido el "Push" a Main:** Nadie, bajo ninguna circunstancia, subirá código directamente a `main` o `develop` sin pasar por un Pull Request.
 * **Regla del Bloqueo (Timeboxing):** Si un desarrollador lleva más de [1 hora] atascado en el mismo error, **debe** levantar la mano y pedir ayuda al equipo. No se permite perder días enteros en silencio.
 * **Calidad antes que velocidad:** Ningún código se envía a revisión si tiene `console.log`, errores en la terminal, o si rompe el diseño en dispositivos móviles.
@@ -33,5 +33,4 @@ Somos profesionales en formación. Si surgen problemas, actuaremos así:
 ---
 > **Firma Digital:** 
 Konny Silva
-Darwin Suarez
-Michael Ramos
+
