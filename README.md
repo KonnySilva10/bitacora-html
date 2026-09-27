@@ -31,22 +31,22 @@ Las diferentes páginas del proyecto están conectadas mediante un menú de nave
 Durante el desarrollo del proyecto se tuvieron en cuenta algunas prácticas básicas de accesibilidad y HTML semántico.
 Se utilizaron etiquetas HTML que permiten organizar mejor el contenido, como:
 
-* <header> para la cabecera.
-* <nav> para el menú de navegación.
-* <main> para el contenido principal.
-* <section> para dividir la información en diferentes secciones.
-* <h1>, <h2> y <h3> para establecer una jerarquía clara de títulos.
-* <ul> y <li> para organizar listas.
-* <a> para crear enlaces de navegación.
-* <html> Indica que comienza un documento HTML.
-* <table> Crea una tabla.
-* <head>  Contiene información de configuración de la página.
-* <footer> Representa el pie de página.
-* <body> Contiene todo el contenido visible de la página.
-* <href> Indica la dirección a la que lleva un enlace. (atributo)
-* <th> Crea una celda de encabezado en una tabla. 
-* <tr> Crea una fila en una tabla.
-* <td> Crea una celda normal en una tabla.
+* header: para la cabecera.
+* nav: para el menú de navegación.
+* main: para el contenido principal.
+* section: para dividir la información en diferentes secciones.
+* h1, h2 y h3: para establecer una jerarquía clara de títulos.
+* ul y li: para organizar listas.
+* a: para crear enlaces de navegación.
+* html: Indica que comienza un documento HTML.
+* table: Crea una tabla.
+* head: Contiene información de configuración de la página.
+* footer: Representa el pie de página.
+* body: Contiene todo el contenido visible de la página.
+* href: Indica la dirección a la que lleva un enlace. (atributo)
+* th: Crea una celda de encabezado en una tabla. 
+* tr: Crea una fila en una tabla.
+* td: Crea una celda normal en una tabla.
 
 También se buscó mantener una estructura clara y ordenada en las páginas, utilizando textos comprensibles y enlaces que permiten identificar fácilmente a dónde dirige cada opción.
 
